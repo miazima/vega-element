@@ -24,7 +24,7 @@
     "iron-flex-layout": "PolymerElements/iron-flex-layout#^1.3.1",
     "paper-elements": "PolymerElements/paper-styles#^1.0.1",
     "neon-elements": "PolymerElements/neon-elements#^1.0.0",
-    "hiveoss-common-libraries": "^1.0.0"
+    "hiveoss-common-libraries": "*"
   },
   "ignore": [
     "**/.*",
